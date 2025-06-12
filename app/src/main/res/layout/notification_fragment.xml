@@ -1,0 +1,40 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="12dp"
+    android:orientation="vertical">
+
+
+
+    <TextView
+        android:id="@+id/tvNamaTim"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="DAFFA BINTANG"
+        android:textSize="30dp"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:id="@+id/tvStadium"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="10PPLG1"
+        android:textSize="25dp"
+        android:textColor="#555"/>
+
+    <ImageView
+        android:id="@+id/icon"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:src="@drawable/profile"
+        android:scaleType="centerCrop"
+        android:layout_marginTop="25dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="winter"/>
+
+
+</LinearLayout>

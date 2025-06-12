@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/baseline_boy_24"
+        android:title="Team Premier League" />
+    <item
+        android:id="@+id/nav_dashboard"
+        android:icon="@drawable/baseline_catching_pokemon_24"
+        android:title="event" />
+    <item
+        android:id="@+id/nav_notifications"
+        android:icon="@drawable/baseline_account_box_24"
+        android:title="Profil" />
+</menu>
